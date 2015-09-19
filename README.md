@@ -19,7 +19,7 @@ Function description:
 ============================================
 The main function is active_learning(X,Y,Pdata,tol,eps,ul,Init,Sigma,type,eta)
 
-Input arguments for SMO function
+Input arguments for active_learning function
 ===========================================
 1. X= The feature matrix (2d array)
 2. Y= Target matrix (1d array)
@@ -33,7 +33,7 @@ Input arguments for SMO function
 10. eta= The confidence on the reamined not-queried data. example eta=99 (scalar in percent)
 
 
-Output arguments for SMO function
+Output arguments for active_learning function
 ===========================================
 1. [alpha, b, query,Conf]=active_learning(X,Y,Pdata,tol,eps,ul,Init,Sigma,type,eta).
 2. alpha= array of lagrange multipliers (1d array)
