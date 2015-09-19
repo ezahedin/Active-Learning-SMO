@@ -6,13 +6,13 @@ Author: Ehsan Zahedinejad ezahedin@ucalgary.ca
 Title:
 =========================
 Active Learning Program. A matlab implementation of Active Learning based on the original works from
-John C. Platt et.al. and C. Campbell et.al. See publication for more detail: 
-1. http://research.microsoft.com/pubs/68391/smo-book.pdf
-2. http://vis.uky.edu/~cheung/courses/ee639_fall04/readings/campbell00query.pdf
+John C. Platt et.al. and C. Campbell et.al. See publications for more detail: 
+http://research.microsoft.com/pubs/68391/smo-book.pdf
+http://vis.uky.edu/~cheung/courses/ee639_fall04/readings/campbell00query.pdf
 
 Benchmarks:
 =========================
-All the results reported in the second above mentioned reference are reproduced with the active learning program.
+All the results reported in the second above mentioned reference are reproduced with the active_learning program.
 
 
 Function description:
